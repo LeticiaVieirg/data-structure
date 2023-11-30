@@ -10,11 +10,10 @@ int main() {
 	}
 	
 	for (i=0;i<10;i++){
-	printf("%d", vet[i]);
+		printf("%d", vet[i]);
 	}
 
 printf("\n\n");
-
 
 	int i=0; // zera a variavel i
 
@@ -26,7 +25,7 @@ printf("\n\n");
 	}
 
 	for(i=0;i<10;i++){
-	printf("%d", vet[i]);
+		printf("%d", vet[i]);
 	}
 
 return 0;
