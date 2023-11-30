@@ -24,4 +24,4 @@ int main ( void ) {
   return 0;
 }
 
-//é mostrado na tela a seguinte mensagem: 'Resultado = -5'.                                                                                                                                                                                  
+//é mostrado na tela a seguinte mensagem: Resultado = -5.                                                                                                                                                                                  
