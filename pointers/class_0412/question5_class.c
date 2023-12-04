@@ -12,3 +12,4 @@ int main() {
 
   return 0;
 }
+//result: Value of variable: 5
