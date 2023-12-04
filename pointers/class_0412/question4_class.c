@@ -11,3 +11,4 @@ int main (void) {
   printf("%d",number)
 return 0;
 }
+//result 6
