@@ -12,7 +12,7 @@
 
 *O objetivo principal é armazenar, de maneira organizada, as atividades desenvovidas durante o período.*
 
-*Cada uma das pasta apresentam os códigos que foram desenvolvidos, códigos que foram usados durante as explicações e atividades relacionadas a tópicos específicos. *
+*Cada uma das pasta apresentam os códigos que foram desenvolvidos, códigos que foram usados durante as explicações e atividades relacionadas a tópicos específicos.*
 
 
 ### Lista de pastas
